@@ -1,0 +1,12 @@
+
+
+<Context>
+
+<Resource url="jdbc:mysql://mydbtest.cnzbjao1ifeq.us-east-1.rds.amazonaws.com/csci370db?useSSL=false" 
+          driverClassName="com.mysql.jdbc.Driver" 
+          password="ahmed9085" username="ahmed9085" 
+          maxWait="10000" maxIdle="5" maxActive="20" 
+          type="javax.sql.DataSource" auth="Container" 
+          name="jdbc/MatchRoommate"/>
+
+</Context>
